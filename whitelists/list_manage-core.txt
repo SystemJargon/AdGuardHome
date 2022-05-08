@@ -1,0 +1,6 @@
+# list_manage-core - things we may need to fetch lists on the client machine directly for.
+# testing nextdns.io
+github.com
+raw.githubusercontent.com
+githubusercontent.com
+nextdns.io
