@@ -1,0 +1,2 @@
+# test example (or you could use it to block any subdomain starting with downloads)
+||downloads.*.*^
