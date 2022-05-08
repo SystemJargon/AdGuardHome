@@ -2,6 +2,10 @@
 
 Various blocklists, allowlists and some other things. 
 
+If you are looking for Pi-hole resources, lists, how-to's, refer to my [Pi-hole repository](https://github.com/lz-eng/pi-hole).
+
+----
+
 * [blocklists](blocklists)
 
 * [allowlists](allowlists)
