@@ -1,0 +1,24 @@
+# easylist format used for AdGuardHome etc.
+# no vpn proxy sites - block if tagged user_child as optional? 
+||adguard-vpn.com^
+||nordvpn.com^
+||privateinternetaccess.com^
+||expressvpn.com^
+||windscribe.com^
+||surfshark.com^
+||protonvpn.com^
+||cyberghostvpn.com^
+||ipvanish.com^
+||hide.me^
+||vyprvpn.com^
+||tunnelbear.com^
+||torguard.net^
+||torproject.org^
+||ivpn.net^
+||mullvad.net^
+||sec-tunnel.com^
+||avira-vpn.com^
+||/*vpn*.*/ # does this regex work? - to be tested
+||nordcdn.com^
+||*.anydesk.*^ # because some non-enterprise people deploy vpn clients this way or may mis-use it to bypass
+||*.teamviewer.com^ # because some non-enterprise people deploy vpn clients this way or may mis-use it to bypass
