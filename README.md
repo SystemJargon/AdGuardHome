@@ -4,7 +4,7 @@ Various blocklists, allowlists and some other things.
 
 * [blocklists](blocklists)
 
-* [allowlists/whitelists](allowlists)
+* [allowlists](allowlists)
 
 ----
 
