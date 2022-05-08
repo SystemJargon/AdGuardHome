@@ -1,6 +1,8 @@
-## AdGuardHome
+# AdGuardHome
 
-Contents:
+----
+
+## Lists
 
 * [blocklists](blocklists)
 
@@ -15,11 +17,11 @@ Contents:
 
 * One big list of other various lists + sources to block phishing, malware, NSFW/Porn [RAW format here](https://github.com/lz-eng/pi-hole/raw/main/dynamic-big-list/easylist_format/lz-eng_easyList-phish-malware-nsfw.txt)
 
-<i>Update Frequency:</i>
+<b>Update Frequency:</b>
 
 A date and time stamp should be added to the list/s at the top to show, "last updated". 
 
-Currently this is daily just after 12pm NZT time (+12 hours ahead of UTC). It is automated.
+Currently this is daily just after 12pm NZT time (+12 hours ahead of UTC) for "dynamic" lists. It is automated.
 
 ----
 
