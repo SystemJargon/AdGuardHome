@@ -2,6 +2,9 @@
 # no vpn proxy sites - block if tagged user_child as optional? 
 ||adguard-vpn.com^
 ||nordvpn.com^
+||nordcdn.com^
+||applytics.zwyr157wwiu6eior.com^ # Analytics via NordVPN riskware.
+||zwyr157wwiu6eior.com^ # NordVPN riskware. Many complaints online about this domain.
 ||privateinternetaccess.com^
 ||expressvpn.com^
 ||windscribe.com^
@@ -19,6 +22,7 @@
 ||sec-tunnel.com^
 ||avira-vpn.com^
 ||/*vpn*.*/ # does this regex work? - to be tested
-||nordcdn.com^
-||*.anydesk.*^ # because some non-enterprise people deploy vpn clients this way or may mis-use it to bypass
-||*.teamviewer.com^ # because some non-enterprise people deploy vpn clients this way or may mis-use it to bypass
+||*.anydesk.*^ # because some non-enterprise people deploy vpn clients/use a tunnel this way or may mis-use it to bypass
+||*.teamviewer.com^ # because some non-enterprise people deploy vpn clients/use a tunnel this way or may mis-use it to bypass
+||logmein.com^ # because some non-enterprise people deploy vpn clients/use a tunnel this way or may mis-use it to bypass
+||vpn.net^ # VPN Hamachi by LogMeIn. Same reasons with logmein.com for being blocked.
