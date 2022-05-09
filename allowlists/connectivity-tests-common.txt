@@ -6,5 +6,3 @@
 @@||www.msftncsi.com^
 @@||dns.msftncsi.com^
 @@||ipv6.msftconnecttest.com^
-## @@||connectivitycheck.platform.hicloud.com^ # don't use Huawei
-## @@||connectivitycheck.cbg-app.huawei.com^ # don't use Huawei
