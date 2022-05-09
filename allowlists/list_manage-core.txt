@@ -1,4 +1,15 @@
-# list_manage-core - things we may need to fetch lists on the client machine directly for.
+# list_manage-core - if needed directly to fetch lists on the client machine or talking to repo's or forwarding to DNS upstream
 @@||github.com^
 @@||githubusercontent.com^
+@@||github.io^
+@@||gitlab.com^
+@@||firebog.net^
+@@||hostfiles.frogeye.fr^
+@@||adaway.org^
+@@||quad9.net^
 @@||nextdns.io^
+
+
+
+
+
