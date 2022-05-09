@@ -1,2 +1,17 @@
-# other-ads-telemetry
-||googleadservices.com^
+####################################################################
+## Other-ads-telemetry by lz-eng 
+## EasyList / AdGuardHome Format
+## Other as anything otherwise not defined by other config/lists.
+## Further ad's and telemetry not possibly covered by other lists.
+####################################################################
+||googleadservices.com^ # Google Ad Services
+||applytics.zwyr157wwiu6eior.com^ # Analytics
+||zwyr157wwiu6eior.com^ # Unknown domain
+||anydesk.com^ # Prevent Unknown anydesk queries
+||teamviewer.com^ # Prevent Unknown teamviewer queries
+||ipv6.microsoft.com^ # We don't use ipv6 - optional
+||desktop-qualityclient-sub.osp.opera.software^ # Opera telemetry
+||edgedl.me.gvt1.com^ # Edge download via gvt1
+||t0.ssl.ak.dynamic.tiles.virtualearth.net^ # Prevent dynamic tiles from this domain
+||target-client.peel-prod.com^ #peel-prod isn't needed
+||assets.msn.com^ # Ads and msn.com assets
