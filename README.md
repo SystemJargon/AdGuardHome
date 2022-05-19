@@ -10,8 +10,7 @@
 
 ----
 
-
-<b>Update Frequency:</b>
+## Update Frequency of list/s
 
 A date and time stamp should be added to the list/s at the top to show, "last updated" or likewise.
 
