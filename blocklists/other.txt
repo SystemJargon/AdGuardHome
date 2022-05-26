@@ -11,9 +11,20 @@
 ||assets.msn.com^ # Ads and msn.com assets is horrible for ads on default Windows browser homepage/new_tab etc.
 ||applytics.zwyr157wwiu6eior.com^ # Analytics via NordVPN riskware.
 ||zwyr157wwiu6eior.com^ # NordVPN riskware. Many complaints online about this domain.
+||*.teamviewer.com^ # We don't use teamviewer.
+||teamviewer.com^ # We don't use teamviewer.
+||logmein.com^ # We don't use logmein
 ||anydesk.com^ # We don't use anydesk.
-||teamviewer.com^ # We don't use  teamviewer.
+||*.anydesk.*^ # We don't use anydesk.
 ||ipv6.microsoft.com^ # We don't use ipv6 - optional comment out if you do use ipv6.
-||desktop-qualityclient-sub.osp.opera.software^ # Opera telemetry and quality testing.
+||desktop-qualityclient-sub.osp.opera.software^ # Opera telemetry and quality testing. We do not use this for Opera.
 ||target-client.peel-prod.com^ # peel-prod phone home? From the Infra-Red Peel remote app on older Samsung device/s.
-# ||edgedl.me.gvt1.com^ # Edge download via gvt1 - TBC category/purpose.
+||edgedl.me.gvt1.com^ # Edge download via gvt1 - TBC category/purpose.
+# more crap
+||reasonsecurity.com^ # reason security 
+||wpcache.ml^
+||y2mate.is^
+||cleardexchange.com^
+||sopertyvalua.com^
+||track.analytics-data.io^
+||plarium.com^
