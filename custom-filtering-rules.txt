@@ -2,3 +2,5 @@
 /sex/
 /porn/
 /hentai/
+/anydesk/ # because scam callers use it and I don't at least.
+/teamviewer/ # because scam callers use it and I don't at least.
