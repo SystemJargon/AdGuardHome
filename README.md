@@ -8,6 +8,8 @@
 
 * [allowlists](allowlists)
 
+Note: AdGuard Home understands basic adblock rules and hosts files syntax.
+
 ----
 
 ## Update Frequency of list/s
