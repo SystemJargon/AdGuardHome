@@ -1,5 +1,5 @@
 #####################################################################
-## Other-ads-telemetry by lz-eng 
+## Other-ads-telemetry
 ## EasyList / AdGuardHome Format
 ## Other as anything otherwise not defined.
 ## Further ad's and telemetry. 
