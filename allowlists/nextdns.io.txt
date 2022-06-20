@@ -1,0 +1,2 @@
+# AdguardHome allowlist
+@@||nextdns.io^
