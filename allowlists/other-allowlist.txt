@@ -2,4 +2,32 @@
 @@||nextdns.io^
 @@||www.youtube-nocookie.com
 @@||s3-ap-southeast-2.amazonaws.com
+@@||s3.amazonaws.com
 @@||i.ytimg.com
+@@||drive.google.com
+@@||wixdns.net^
+@@||squarespace.com^
+@@||images.squarespace-cdn.com
+@@||p.typekit.net
+@@||t.imgur.com
+@@||scdn.co # spotify
+@@||onedrive.live.com
+@@||ui.com^
+@@||ubnt.com^
+@@||amplifi.com^
+@@||global.stun.twilio.com # unifi protect
+@@||global.turn.twilio.com # unifi protect
+@@||api2.branch.io # mcdonalds app required
+@@||dropboxcaptcha.com # signin for dropbox
+@@||dropbox.com # dropbox
+@@||plex.tv^
+@@||download.mozilla.org # if you block mozilla telemetry but want app updates
+@@||graph.instagram.com # needed or else things break
+@@||graph.facebook.com # needed or else things break
+@@||ipinfo.io^
+@@||urlvoid.com^
+@@||dbl.oisd.nl
+@@||cdn.shopify.com
+@@||ttvnw.net^ # twitch.tv
+@@||smartthings.com^ # samsung smartthings
+@@||cdn.samsungcloudsolution.com # samsung smartthings
