@@ -1,2 +1,5 @@
 # AdguardHome allowlist
 @@||nextdns.io^
+@@||www.youtube-nocookie.com
+@@||s3-ap-southeast-2.amazonaws.com
+@@||i.ytimg.com
