@@ -1,13 +1,13 @@
 # youtube basic functionality
 # @@||youtube.com^ # you could let this slide too but comment by default for now.
-@@||accounts.youtube.com^
-@@||img.youtube.com^
-@@||m.youtube.com^
-@@||music.youtube.com^
-@@||s.youtube.com^
-@@||s2.youtube.com^
-@@||tv.youtube.com^
-@@||www.youtube.com^
+@@||accounts.youtube.com
+@@||img.youtube.com
+@@||m.youtube.com
+@@||music.youtube.com
+@@||s.youtube.com
+@@||s2.youtube.com
+@@||tv.youtube.com
+@@||www.youtube.com
 @@||www.youtube-nocookie.com
 @@||www.youtube.com
 @@||www.youtubekids.com
