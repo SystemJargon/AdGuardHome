@@ -1,6 +1,13 @@
 # AdguardHome allowlist
 @@||nextdns.io^ # for non-bootstrap lookups first for DNS
 @@||quad9.net^ # for non-bootstrap lookups first for DNS
+@@||cdn.shopify.com # allow images on websites which use Shopify
+@@||t.co # twitter short url
+@@||linktr.ee # social media links on linktree
+@@||mobile.launchdarkly.com # Allow Samsung Smart Things
+@@||smartthings.com # Allow Samsung Smart Things
+@@||cdn.samsungcloudsolution.com # Allow Samsung CDN
+@@||graph.instagram.com # Instagram Graph API. Debate exists on this
 @@||s3-ap-southeast-2.amazonaws.com
 @@||s3.amazonaws.com
 @@||i.ytimg.com
