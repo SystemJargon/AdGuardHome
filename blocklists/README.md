@@ -1,9 +1,3 @@
-
-Currently I have the below mentioned lists to automatically update everday at 12pm NZST, which is 1am UTC time.
-
-----
-
-
 <b>File:</b> [agh_bl-phish-malware-nsfw.txt](https://raw.githubusercontent.com/lz-eng/AdGuardHome/main/blocklists/agh_bl-phish-malware-nsfw.txt)
 
 <b>About:</b> Is for blocking categories: malware including coinminers, porn/nsfw, phishing. 
