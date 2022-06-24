@@ -1,9 +1,12 @@
 # AdguardHome allowlist
-@@||nextdns.io^
-@@||www.youtube-nocookie.com
+@@||nextdns.io^ # for non-bootstrap lookups first for DNS
+@@||quad9.net^ # for non-bootstrap lookups first for DNS
 @@||s3-ap-southeast-2.amazonaws.com
 @@||s3.amazonaws.com
 @@||i.ytimg.com
+@@||www.youtube-nocookie.com
+@@||youtube.com # don't do subdomains because telemetry / ads
+@@||netflix.com # don't do subdomains because telemetry / ads
 @@||drive.google.com
 @@||wixdns.net^
 @@||squarespace.com^
@@ -12,9 +15,9 @@
 @@||t.imgur.com
 @@||scdn.co # spotify
 @@||onedrive.live.com
-@@||ui.com^
-@@||ubnt.com^
-@@||amplifi.com^
+@@||ui.com^ # Ubiquiti
+@@||ubnt.com^ # Ubiquiti
+@@||amplifi.com^ # Ubiquiti
 @@||global.stun.twilio.com # unifi protect
 @@||global.turn.twilio.com # unifi protect
 @@||api2.branch.io # mcdonalds app required
