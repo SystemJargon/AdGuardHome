@@ -7,3 +7,5 @@
 @@||play-lh.googleusercontent.com
 @@||play.google.com
 @@||play.googleapis.com
+@@||connectivitycheck.android.com
+@@||time.android.com
