@@ -2,7 +2,10 @@
 @@||android.clients.google.com
 @@||android.com
 @@||android.googleapis.com
+@@||android.l.google.com
 @@||play-fe.googleapis.com
 @@||play-lh.googleusercontent.com
 @@||play.google.com
 @@||play.googleapis.com
+@@||connectivitycheck.android.com
+@@||time.android.com
