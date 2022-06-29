@@ -8,6 +8,8 @@
 
 * [allowlists](allowlists)
 
+* [My blocklists repo](https://github.com/SystemJargon/blocklists)
+
 Note: AdGuard Home understands basic adblock rules and hosts files syntax.
 
 ----
