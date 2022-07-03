@@ -1,4 +1,5 @@
 ## # is a comment. meaning no-effect to be processed "normally".
+# ^ is tags for AdGuardHome - clean up if you use this for Pi-hole / other solution not compatible.
 ## allowlist
 nextdns.io^ # for non-bootstrap lookups first for DNS
 quad9.net^ # for non-bootstrap lookups first for DNS
