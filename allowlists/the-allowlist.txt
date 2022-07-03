@@ -139,15 +139,6 @@ apresolve.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
 api-tv.spotify.com # needed possibly for TV's playing Spotify App
-# Samsung mostly for SmartTV
-mobile.launchdarkly.com # Allow Samsung Smart Things
-smartthings.com # Allow Samsung Smart Things
-cdn.samsungcloudsolution.com # Allow Samsung CDN
-asset-cdn.samsungvisioncloud.com^$device_tv # whitelist smart tv connection fix
-smartthings.com^$device_tv # samsung smartthings
-cdn.samsungcloudsolution.com^$device_tv # samsung smartthings and smart tv connection fix
-time.samsungcloudsolution.com^$device_tv
-samsungqbe.com^$device_tv
 # xbox and xbox live
 #v10.events.data.microsoft.com^$device_gameconsole # Xbox Achievements and game stats sync
 #v20.events.data.microsoft.com^$device_gameconsole # Xbox Achievements and game stats sync
