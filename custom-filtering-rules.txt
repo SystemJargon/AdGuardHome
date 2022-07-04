@@ -1,6 +1,20 @@
-/vpn/
-/sex/
-/porn/
-/hentai/
-/anydesk/ # because scam callers use it and I don't at least.
+/anydesk/ # because scam callers use it and I don't at least. 
 /teamviewer/ # because scam callers use it and I don't at least.
+/vnc/ # because scam callers use it and I don't at least.
+/radmin/ # because scam callers use it and I don't at least.
+/location/ # because location isn't to be tracked
+/ads/ # no ads
+/telemetry/ # no telemetry
+/tracking/ # no tracking 
+/vpn/^$ctag=user_child
+/sex/^$ctag=user_child
+/porn/^$ctag=user_child
+/hentai/^$ctag=user_child
+/cock/^$ctag=user_child
+/pussy/^$ctag=user_child
+/fuck/^$ctag=user_child
+/dick/^$ctag=user_child
+/shit/^$ctag=user_child
+/cunt/^$ctag=user_child
+/bastard/^$ctag=user_child
+/asshole/^$ctag=user_child
