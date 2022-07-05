@@ -1,17 +1,19 @@
 # AdGuardHome
 
-----
-
-## Lists
-
-* [blocklists](blocklists)
-
-* [allowlists](allowlists)
+This repo is no longer maintained for lists. Please see
 
 * [My Blocklists Repo](https://github.com/SystemJargon/blocklists) 
 
 * [My Allowlists Repo](https://github.com/SystemJargon/allowlists)
 
+
+----
+
+## Lists in this repo.
+
+* [blocklists](blocklists)
+
+* [allowlists](allowlists)
 
 
 Note: AdGuard Home understands basic adblock rules and hosts files syntax.
