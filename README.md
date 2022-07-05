@@ -8,9 +8,9 @@
 
 * [allowlists](allowlists)
 
-* [My Blocklists Repo](https://github.com/SystemJargon/blocklists) - updated very often / daily.
+* [My Blocklists Repo](https://github.com/SystemJargon/blocklists) 
 
-* [My Allowlists Repo](https://github.com/SystemJargon/allowlists) - updated very often / daily.
+* [My Allowlists Repo](https://github.com/SystemJargon/allowlists)
 
 
 
