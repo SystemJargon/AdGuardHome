@@ -25,7 +25,7 @@ Links in RAW format below
 
 [OISD](https://abp.oisd.nl/)
 
-[Perflyst SmartTV-AGH](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt)
+[Perflyst SmartTV-AGH](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) or [SmartTV-AGH-More](https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/SmartTV-AGH-More.txt)
 
 ----
 
