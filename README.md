@@ -1,23 +1,42 @@
 # AdGuardHome
 
-This repo is no longer maintained for lists. Please see
+AdGuard Home understands basic adblock rules and hosts files syntax.
+
+
+## Lists within this repo.
+
+* [blocklists](blocklists)
+
+* [allowlists](allowlists)
+
+----
+
+## Recommended lists for AGH 
+
+Links in RAW format below
+
+[Firebog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt)
+
+[Porn](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt)
+
+[Security](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt)
+
+[Telemetry](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt)
+
+[OISD](https://abp.oisd.nl/)
+
+[Perflyst SmartTV-AGH](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt)
+
+----
+
+## My Further Links
+
+* [My Pi-hole repository](https://github.com/SystemJargon/pi-hole)
 
 * [My Blocklists Repo](https://github.com/SystemJargon/blocklists) 
 
 * [My Allowlists Repo](https://github.com/SystemJargon/allowlists)
 
 
-----
-
-## Lists in this repo.
-
-* [blocklists](blocklists)
-
-* [allowlists](allowlists)
 
 
-Note: AdGuard Home understands basic adblock rules and hosts files syntax.
-
-----
-
-If you are looking for <b>Pi-hole</b> resources, lists, how-to's, refer to my [Pi-hole repository](https://github.com/SystemJargon/pi-hole).
