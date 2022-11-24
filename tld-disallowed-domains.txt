@@ -1,26 +1,30 @@
-# Leveraged from the following reputable sources
-# https://www.spamhaus.org/statistics/tlds
-# https://unit42.paloaltonetworks.com/top-level-domains-cybercrime
-# Add this to AGH under Settings > DNS settings. Scroll to the bottom.
+||version.bind
+||id.server
+||hostname.bind
 ||*.am^
-||*.app^
+!||*.app^ # some domains may need this whitelisted/removed
 ||*.bd^
 ||*.bid^
+||*.br^
+||*.cc^
 ||*.cd^
 ||*.cf^
 ||*.ci^
 ||*.cn^
 ||*.date^
+||*.dk^
 ||*.email^
+||*.es^
 ||*.fit^
 ||*.ga^
 ||*.gq^
 ||*.in^
+!||*.io^ # some domains may need this whitelisted/removed
 ||*.ke^
-||*.me^
 ||*.ml^
 ||*.mw^
 ||*.ph^
+||*.pics^
 ||*.pw^
 ||*.quest^
 ||*.recipes^
@@ -32,6 +36,7 @@
 ||*.software^
 ||*.surf^
 ||*.sx^
+||*.test^
 ||*.top^
 ||*.ua^
 ||*.work^

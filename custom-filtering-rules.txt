@@ -1,3 +1,4 @@
+# keywords to block
 /anydesk/ # because scam callers use it and I don't at least. 
 /teamviewer/ # because scam callers use it and I don't at least.
 /vnc/ # because scam callers use it and I don't at least.
@@ -8,6 +9,8 @@
 /tracking/ # no tracking 
 /vpn/^$ctag=user_child
 /sex/^$ctag=user_child
+/xxx/^$ctag=user_child
+/adult/^$ctag=user_child
 /porn/^$ctag=user_child
 /hentai/^$ctag=user_child
 /cock/^$ctag=user_child
@@ -16,5 +19,24 @@
 /dick/^$ctag=user_child
 /shit/^$ctag=user_child
 /cunt/^$ctag=user_child
-/bastard/^$ctag=user_child
 /asshole/^$ctag=user_child
+/bastard/^$ctag=user_child
+/bitch/^$ctag=user_child
+/slut/^$ctag=user_child
+/whore/^$ctag=user_child
+# ads, tracking and other things such as annoyances
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^popup?[_.-]/
+/^stat(s|istics)?[0-9]*[_.-]/

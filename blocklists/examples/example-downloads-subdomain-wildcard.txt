@@ -1,2 +1,0 @@
-# test example (or you could use it to block any subdomain starting with downloads and ending in .com)
-||downloads.*.com^
